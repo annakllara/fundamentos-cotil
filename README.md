@@ -16,3 +16,14 @@ Também gosto muito de *desafios*, pois acredito que eles me ajudam a crescer e 
 - Comunicação;
 - Criatividade;
 
+## Meu Primeiro Programa
+
+O código abaixo é um clássico "Olá, Mundo!" em linguagem C, usando a função `printf()`:
+
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
