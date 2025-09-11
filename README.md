@@ -1,4 +1,5 @@
 # fundamentos-cotil
+
 feito por: Anna Kllara.
 
 ##Sobre Mim
@@ -18,3 +19,33 @@ Também gosto muito de *desafios*, pois acredito que eles me ajudam a crescer e 
 -Criatividade;
 
 ##Meu Primeiro Programa O código abaixo é um clássico "Olá, Mundo!" em linguagem C, usando a função 'printf(): ''' #include <stdio.h> int main() { printf("Hello, World!\n"); return 0; }
+
+feito por Anna Kllara
+
+## Sobre Mim
+
+Olá! Meu nome é **Anna Kllara** e sou estudante do Colégio Tecnico de Limeira mais conhecido como *COTIL*.  
+Atualmente estou me dedicando a aprender mais sobre programação e desenvolvimento de sistemas.  
+Também gosto muito de *desafios*, pois acredito que eles me ajudam a crescer e evoluir.
+
+## Habilidades
+
+### Algumas habilidades que já tenho ou quero aprender:
+- Lógica de Programação;
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML);
+- Trabalho em Equipe;
+- Comunicação;
+- Criatividade;
+
+## Meu Primeiro Programa
+
+O código abaixo é um clássico "Olá, Mundo!" em linguagem C, usando a função `printf()`:
+
+```
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+
